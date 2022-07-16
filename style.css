@@ -22,8 +22,6 @@
 a {
     box-shadow: inset 0 0 0 0 #54b3d6;
     color: lightblue;
-    margin: 0 -.25rem;
-    padding: 0 -.25rem;
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
     font-size: 30px;
     text-decoration: none;
@@ -32,6 +30,35 @@ a {
 a:hover {
     color: #fff;
     box-shadow: inset 200px 0 0 0 #54b3d6;
-    font-size: 33px;
+    font-size: 30px;
 }
 
+
+.main-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: max-content;
+    margin-top: 50%;
+    gap: 30px;
+}
+
+#btn {
+    background-color: white;
+    font-size: 25px;
+    padding: 20px;
+}
+
+#btn:hover {
+    color: #54b3d6;
+}
+
+
+
+.bg-color-box {
+    border: solid 3px #54b3d6;
+    padding: 25px;
+    border-radius: 10px;
+    
+}
