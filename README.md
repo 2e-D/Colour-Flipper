@@ -1,2 +1,5 @@
 # Colour-Flipper
-This will be a simple colour flipper project to test my JS skills and what I know about DOM manipulation 
+I have made a good start on the color flipper and it should soon be a somewhat functioning mini web application.
+
+I need to make a start on the hex.html
+I also need to focus on the JS now
