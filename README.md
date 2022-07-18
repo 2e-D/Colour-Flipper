@@ -1,5 +1,7 @@
 # Colour-Flipper
-I have made a good start on the color flipper and it should soon be a somewhat functioning mini web application.
+The colour flipper is now fully complete. I wish i could of done it with little to no tutorial help but programming involves alot of looking up issues on google so i shouldn't feel to bad.
+
+If anything it tells me i still have alot to learn and work on with Javascript
 
 
-To see the progress i am making check out my GitHub Pages link : https://2e-d.github.io/Colour-Flipper/
+To see the final project, Check out my GitHub Pages link : https://2e-d.github.io/Colour-Flipper/
