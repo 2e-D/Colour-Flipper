@@ -48,6 +48,7 @@ a:hover {
     background-color: white;
     font-size: 25px;
     padding: 20px;
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
 }
 
 #btn:hover {
@@ -61,4 +62,16 @@ a:hover {
     padding: 25px;
     border-radius: 10px;
     
+}
+
+
+h3 {
+    font-size: 28px;
+    transition: color 3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+
+h3:hover {
+   color: whitesmoke;
+ box-shadow: inset 400px 0 0 0 #54b3d6;
 }
